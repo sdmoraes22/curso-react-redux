@@ -1,4 +1,5 @@
 function info(text) {
+
     console.log(`INFO: ${text}`)
 }
 

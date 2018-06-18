@@ -1,3 +1,3 @@
 const logger = require('./logger')
 
-logger.info('Usando o padrão CommonsJs!!!')
+logger.info('Usando o Padrão CommonJS!')
